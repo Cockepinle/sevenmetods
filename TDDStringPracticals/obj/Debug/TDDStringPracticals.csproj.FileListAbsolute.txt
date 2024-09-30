@@ -1,0 +1,6 @@
+C:\Users\alepi\source\repos\TDDStringPractical\TDDStringPracticals\bin\Debug\TDDStringPracticals.dll
+C:\Users\alepi\source\repos\TDDStringPractical\TDDStringPracticals\bin\Debug\TDDStringPracticals.pdb
+C:\Users\alepi\source\repos\TDDStringPractical\TDDStringPracticals\obj\Debug\TDDStringPracticals.csproj.AssemblyReference.cache
+C:\Users\alepi\source\repos\TDDStringPractical\TDDStringPracticals\obj\Debug\TDDStringPracticals.csproj.CoreCompileInputs.cache
+C:\Users\alepi\source\repos\TDDStringPractical\TDDStringPracticals\obj\Debug\TDDStringPracticals.dll
+C:\Users\alepi\source\repos\TDDStringPractical\TDDStringPracticals\obj\Debug\TDDStringPracticals.pdb

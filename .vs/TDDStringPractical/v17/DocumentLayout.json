@@ -1,0 +1,97 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alepi\\source\\repos\\TDDStringPractical\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17E1F0E1-4C0A-480F-96BB-0765B8B209AD}|TDDStringPractical\\TDDStringPracticals.Test.csproj|C:\\Users\\alepi\\source\\repos\\TDDStringPractical\\tddstringpractical\\tddstringpracticalstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17E1F0E1-4C0A-480F-96BB-0765B8B209AD}|TDDStringPractical\\TDDStringPracticals.Test.csproj|solutionrelative:tddstringpractical\\tddstringpracticalstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D0AA10-C715-4487-9FD4-FE1EC81AE286}|TDDStringPracticals\\TDDStringPracticals.csproj|c:\\users\\alepi\\source\\repos\\tddstringpractical\\tddstringpracticals\\tddstringpracticals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D0AA10-C715-4487-9FD4-FE1EC81AE286}|TDDStringPracticals\\TDDStringPracticals.csproj|solutionrelative:tddstringpracticals\\tddstringpracticals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D0AA10-C715-4487-9FD4-FE1EC81AE286}|TDDStringPracticals\\TDDStringPracticals.csproj|C:\\Users\\alepi\\source\\repos\\TDDStringPractical\\tddstringpracticals\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D0AA10-C715-4487-9FD4-FE1EC81AE286}|TDDStringPracticals\\TDDStringPracticals.csproj|solutionrelative:tddstringpracticals\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1546,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1a46fd64-28d5-434c-8eb3-17a02d419b53}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\alepi\\source\\repos\\TDDStringPractical\\TDDStringPracticals\\Class1.cs",
+              "RelativeDocumentMoniker": "TDDStringPracticals\\Class1.cs",
+              "ToolTip": "C:\\Users\\alepi\\source\\repos\\TDDStringPractical\\TDDStringPracticals\\Class1.cs",
+              "RelativeToolTip": "TDDStringPracticals\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T11:36:19.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TddStringPracticalsTests.cs",
+              "DocumentMoniker": "C:\\Users\\alepi\\source\\repos\\TDDStringPractical\\TDDStringPractical\\TddStringPracticalsTests.cs",
+              "RelativeDocumentMoniker": "TDDStringPractical\\TddStringPracticalsTests.cs",
+              "ToolTip": "C:\\Users\\alepi\\source\\repos\\TDDStringPractical\\TDDStringPractical\\TddStringPracticalsTests.cs",
+              "RelativeToolTip": "TDDStringPractical\\TddStringPracticalsTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T11:02:44.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TddStringPracticals.cs",
+              "DocumentMoniker": "C:\\Users\\alepi\\source\\repos\\TDDStringPractical\\TDDStringPracticals\\TddStringPracticals.cs",
+              "RelativeDocumentMoniker": "TDDStringPracticals\\TddStringPracticals.cs",
+              "ToolTip": "C:\\Users\\alepi\\source\\repos\\TDDStringPractical\\TDDStringPracticals\\TddStringPracticals.cs",
+              "RelativeToolTip": "TDDStringPracticals\\TddStringPracticals.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAIwBkAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T11:40:07.145Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
